@@ -1,3 +1,9 @@
+
+------
+# This branch is only intended for EXPERIMENTAL USE with Android R data auditing API.
+# We will deliberately access sensitive user data to test auditing logs.
+------
+
 # Android BLE Library
 
 [ ![Download](https://api.bintray.com/packages/nordic/android/no.nordicsemi.android%3Able/images/download.svg) ](https://bintray.com/nordic/android/no.nordicsemi.android%3Able/_latestVersion)
